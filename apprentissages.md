@@ -78,4 +78,5 @@ Sinon, un test avec triple étoile sur la ligne sous celle-ci
 
 ***
 
-ne change rien en pff
+ne change rien en pdf
+$ f(x) = {1}\over x $<br/><br/><br/><br/>blabla<br/>
