@@ -1,7 +1,3 @@
-# 
-
-[TOC]
-
 #  Modifications/apprentissages
 
 ## Modifier le titre des alertes
